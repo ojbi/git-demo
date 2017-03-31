@@ -5,5 +5,5 @@
 <link rel="stylesheet" type="text/css" href="../styles/style.css">
 
 <?php
-echo "TEST AGAIN ANO BA!";
+echo "TEST FROM CHILD BRANCH";
 ?>
