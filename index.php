@@ -1,4 +1,4 @@
 <?php
-echo "I WAS HERE";
+echo "I WAS HERE AGAIN";
 header('location: web/index.php');
 ?>
