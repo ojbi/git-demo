@@ -1,0 +1,955 @@
+
+body
+ {
+    background-color:white; 
+    margin: 10px 10px 10px 10px; 
+ }
+
+
+.div
+{
+
+
+  display: inline-block;
+    width: 100px;
+    text-align: left;
+}
+
+
+h1{
+
+margin-left: 10px;
+font-size: 20px;
+color:rgba(5, 78, 161, 1);
+
+
+
+}
+
+h2{
+margin-left: 300px;
+font-size: 18px;
+
+}
+h5{
+margin-left: 50px;
+
+}
+
+h4
+{
+  color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+
+
+
+
+}
+
+
+
+    
+    .nav
+    {
+        background-color: #f3f3f3;
+        border: solid 2px #a1a1a1;
+        padding: 10px;
+        margin:170px 530px -200px;
+        width: 470px;
+        height:80px;
+        box-sizing: border-box;
+        box-shadow: 10px 10px 5px #888888;
+         border-radius: 8px;
+    }
+   
+
+    .jobsma
+    {
+        
+        margin-left:10px;
+        
+    }
+
+    .jobsma h3
+    {
+
+  
+    margin: -50px 10px 10px 120px;
+
+}
+
+.jobsweb{
+width: auto;
+height: auto;
+
+}
+
+.jobsweb a{
+
+           color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+
+
+
+
+}
+
+.jobsweb a:hover{
+
+  color:rgba(19, 139, 167, 1);
+  background:white;
+
+}
+
+p{
+
+
+  margin-left: 50px;
+}
+
+ 
+  
+
+
+.stat{
+margin-left:300px;
+
+
+}
+
+.stat a
+{
+
+  font-size: 18px;
+  padding: 20px;
+  color: rgba(36, 135, 219, 1);
+}
+
+.stat a.active{
+color: red;
+
+
+}
+
+.stat a.active:hover{
+color: red;
+
+
+}
+
+
+.stat a:hover
+{
+
+  text-decoration: none;
+  color: black;
+
+}
+.jobstat
+{
+
+ margin-left: 380px;
+
+}
+
+.jobstat a
+{
+
+  font-size: 15px;
+  padding: 20px;
+  color: rgba(36, 135, 219, 1);
+ 
+}
+
+.jobstat a.active{
+color: red;
+
+
+}
+
+.jobstat a.active:hover{
+color: red;
+
+
+}
+
+
+.jobstat a:hover
+{
+
+  text-decoration: none;
+  color: black;
+
+}
+   .jobs
+    {
+        background-color: #f3f3f3;
+        border: solid 2px #a1a1a1;
+        padding: 10px;
+        margin:170px 400px -200px;
+        width: 700px;
+        height:auto;
+        box-sizing: border-box;
+        box-shadow: 10px 10px 5px #888888;
+         border-radius: 8px
+         text-align:center;   }
+
+    a{
+
+    color: black;
+    text-decoration: none;
+    }
+
+a:hover
+{
+color:#0080FF;
+} 
+
+.formLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-left:200px;
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+.moveLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin:10px;
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+    .moveLayout label, .moveLayout input, .moveLayout select,
+    {
+        display: block;
+        width: 250px;
+        float: left;
+        margin-bottom: 10px;
+
+    }
+ 
+    .moveLayout label
+    {
+        text-align: left;
+        padding-right: 10px;
+        width: 150px;
+        margin-left: 50px;
+    }
+
+
+.userLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-left:10px;
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+        .userLayout label, .userLayout input, .userLayout select, .userLayout textarea
+    {
+        display: block;
+        width: 250px;
+        float: left;
+        margin-bottom: 10px;
+
+    }
+ 
+    .userLayout label
+    {
+        text-align: left;
+        padding-right: 10px;
+        width: 150px;
+        margin-left: 50px;
+    }
+
+
+
+    .appsLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin:10px 400px 200px;
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+    .jobtop
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+       margin:200px 400px 20px 200px;
+         width: 900px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+    .jobtop select
+    {
+width: 200px;
+
+
+    }
+
+
+.jobformLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin:250px 300px;
+        width: 700px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+.resumeformLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-bottom: 10px;
+        margin-left: 30px;
+        width: 1200px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+    .resumeformLayout label, .resumeformLayout input, .resumeformLayout textarea
+    {
+        display: block;
+        
+        float: left;
+        margin-bottom: 10px;
+
+
+    }
+ 
+    .resumeformLayout label
+    {
+        text-align: left;
+        padding-right: 100px;
+        width: 100px;
+        margin-left: 50px;
+    }
+.resumeformLayout input
+{
+
+  width:400px;
+}
+
+    
+
+    .webjobLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-top:10px ;
+        width: auto;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+
+    }
+
+    .workformLayout
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin:250px 300px;
+        width: 800px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+        .workformLayout label, .workformLayout input, .workformLayout textarea
+    {
+        display: block;
+        width: 400px;
+        float: left;
+        margin-bottom: 10px;
+
+
+    }
+ 
+    
+
+     .workformLayout select
+    {
+      display: block;
+        width: 60px;
+        float: left;
+        margin-bottom: 10px; 
+    }
+
+ .workformLayout input[type=submit] 
+ {
+    width: 300px;
+     margin-left: 300px;
+  
+ }
+.workformlayout img{
+text-align: center;
+float: left;
+margin-left: 10px;
+
+}
+
+.workayout h3
+{
+float: center;
+
+  margin-bottom: -10px;
+
+}
+
+    
+
+.tableLayout
+    {
+        background-color: #f3f3f3;
+        border: solid 2px #a1a1a1;
+       padding: 10px;
+        margin:250px 0 0 200px;
+        width: 1000px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+.jobtableLayout
+    {
+        background-color: #f3f3f3;
+        border: solid 2px #a1a1a1;
+        margin:250px 10px;
+        width: 1300px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+padding: 10px;
+
+    }
+
+.eductableLayout
+    {
+        background-color: #f3f3f3;
+        border: solid 2px #a1a1a1;
+        margin:250px  0 -200px;
+        width: 1300px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+padding: 10px;
+    }
+
+
+    .nusLayout
+    {
+        
+        margin:250px 470px;
+        width: 570px;
+        height: auto;
+            
+    }
+
+   
+        .formLayout label, .formLayout input, .formLayout select, .formLayout textarea
+    {
+        display: block;
+        width: 250px;
+        float: left;
+        margin-bottom: 10px;
+
+    }
+ 
+    .formLayout label
+    {
+        text-align: left;
+        padding-right: 10px;
+        width: 150px;
+        margin-left: 50px;
+    }
+
+
+
+    input[type=submit] {
+            color:black;
+  background:none repeat scroll 0% 0% rgba(205, 235, 242, 1);
+  border-radius: 5px;
+  padding: 5px;
+    }
+
+    input[type=submit]:hover {
+            color:black;
+  background:none repeat scroll 0% 0% rgba(20, 131, 155, 1);
+  border-radius: 5px;
+  padding: 5px;
+    }
+
+    input#log
+    {
+
+      display: block;
+        width: 150px;
+        margin-left: 210px;
+        font-weight: bold;
+                margin-bottom: 10px;
+
+
+    }
+
+    a#ajobs
+    {
+
+      color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+
+    }
+
+
+a:hover
+{
+
+text-decoration: underline;
+
+}
+    .jobformLayout label, .jobformLayout input, .jobformLayout textarea
+    {
+        display: block;
+        width: 300px;
+        float: left;
+        margin-bottom: 10px;
+
+
+    }
+ 
+    .jobformLayout label
+    {
+        text-align: left;
+        padding-right: 100px;
+        width: 150px;
+        margin-left: 50px;
+    }
+
+
+
+
+     .jobformLayout select
+    {
+      display: block;
+        width: 100px;
+        float: left;
+        margin-bottom: 10px; 
+    }
+ .jobformLayout input[type=submit] 
+ {
+    width: 300px;
+     margin-left: 300px;
+  
+ }
+.jobformLayout img{
+text-align: center;
+float: left;
+margin-left: 50px;
+
+}
+
+.jobformLayout h3
+{
+float: center;
+
+  margin-bottom: -10px;
+
+}
+
+ input[type=radio] {
+
+  width:10px;
+   }
+
+
+.box {
+  float: left;
+  width: 190px;
+  height: 100px;
+  margin: 1em;
+}
+.after-box {
+  clear: left;
+}
+
+    br
+    {
+        clear: left;
+    }
+    
+    table.hovertable {
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #999999;
+    border-collapse: collapse;
+     border-radius: 8px;
+}
+table.hovertable th {
+    background-color:#c3dde0;
+    border-width: 1px;
+    padding: 2px;
+    border-style: solid;
+    border-color: #a9c6c9;
+    
+}
+table.hovertable tr {
+    background-color:#d4e3e5;
+
+}
+table.hovertable td {
+    border-width: 1px;
+   height: 20px;
+    border-style: solid;
+    border-color: #a9c6c9;
+    font-size: 12px;
+  }
+
+.display-error
+{
+   width: 405px;
+   border: 1px solid #D8D8D8;
+   padding: 5px;
+   border-radius: 5px;
+   font-family: Arial;
+   font-size: 12px;
+   background-color: #D8D8D8;
+   color: rgb(211, 0, 0);
+   text-align: center;
+   margin:1px 1px 10px 50px;
+    border-radius: 8px;
+
+}
+ 
+.job-error
+{
+   width: 500px;
+   border: 1px solid #D8D8D8;
+   padding: 10px;
+   border-radius: 5px;
+   font-family: Arial;
+   font-size: 14px;
+   background-color: #D8D8D8;
+   color: rgb(211, 0, 0);
+   text-align: center;
+   margin:1px 1px 50px 100px;
+    border-radius: 8px;
+    height: 30px;
+
+}
+ 
+
+ .job-success
+{
+    width: 500px;
+   border: 1px solid #D8D8D8;
+   padding: 5px;
+   border-radius: 5px;
+   font-family: Arial;
+   font-size: 12px;
+   background-color: rgb(236, 255, 216);
+   color: rgb(211, 0, 0);
+   text-align: center;
+   margin:1px 1px 50px 100px;
+    border-radius: 8px;
+}
+ 
+.display-success
+{
+   width: 400px;
+   border: 1px solid #D8D8D8;
+   padding: 10px;
+   border-radius: 5px;
+   font-family: Arial;
+   font-size: 12px;
+   background-color: rgb(236, 255, 216);
+   color: green;
+   text-align: center;
+     margin:1px 1px 10px 50px;
+      border-radius: 8px;
+
+}
+ 
+h6{
+
+
+font-size: 14px;
+margin-left: 40px;
+
+}
+
+.main{
+
+margin:220px 200px;
+width:auto;
+
+}
+
+table.jobst{
+    font-family: verdana,arial,sans-serif;
+    font-size:11px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #999999;
+    border-collapse: collapse;
+     border-radius: 8px;
+}
+
+table.jobst tr {
+    background-color:#d4e3e5;
+     border-radius: 5px;
+
+}
+table.jobst td {
+    border-width: 1px;
+    background:none repeat scroll 0% 0% rgba(29, 146, 174, 1);
+    border-style: none;
+    border-color: #a9c6c9;
+    padding: 5px;
+
+  }
+
+  input#ok
+  {
+
+    width:100px;
+   padding: 10px;
+    font-size: 13px;
+  }
+
+  select#select
+  {
+
+padding: 10px;
+    font-size: 15px;
+
+  }
+
+
+
+  input#ussave
+  {
+
+ color:black;
+  background:none repeat scroll 0% 0% rgba(205, 235, 242, 1);
+  border-radius: 5px;
+  padding: 5px;
+  margin-left:150px;
+
+  }
+
+   input#upus
+  {
+
+    width:150px;
+   padding: 10px;
+    font-size: 13px;
+    margin-left: 300px;
+  }
+
+.per
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-bottom: 10px;
+        margin-left: -170px;
+         margin-right: 175px;
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+    .per label, .per input, .per textarea
+    {
+        display: block;
+        
+        float: left;
+        margin-bottom: 10px;
+
+
+    }
+ 
+    .per label
+    {
+        text-align: left;
+        padding-right: 100px;
+        width: 100px;
+            }
+.per input
+{
+
+  width:300px;
+}
+
+
+.con
+    {
+        background-color: #d4e3e5;
+        border: solid 2px #a1a1a1;
+        padding: 20px;
+        margin-bottom: 10px;
+        margin-left: -170px;
+
+        width: 500px;
+        height: auto;
+             box-shadow: 10px 10px 5px #888888;
+              border-radius: 8px;
+
+    }
+
+    .con label, .con input, .con textarea
+    {
+        display: block;
+        
+        float: left;
+        margin-bottom: 10px;
+
+
+    }
+ 
+    .con label
+    {
+        text-align: left;
+        padding-right: 100px;
+        width: 100px;
+            }
+.con input
+{
+
+  width:300px;
+}
+
+.educational
+{
+
+width:auto;
+
+}
+
+.per, .con, .resumeformlayout {
+
+  
+  display: block;
+        
+        float: left;
+        margin-bottom: 10px;
+
+}
+select#educ{
+
+  width: 300px;
+}
+
+a#prev
+{
+
+
+
+
+ color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 20px;
+float: left;
+
+}
+
+a#next
+{
+
+
+
+
+ color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 20px;
+float: right;
+
+}
+
+a#pos{
+
+ color:rgba(243, 237, 237, 1);
+  background:none repeat scroll 0% 0% rgba(19, 139, 167, 1);
+  border-radius: 5px;
+  padding: 5px;
+  
+
+}
+
+a#st{
+
+  color:rgba(19, 139, 167, 1);
+  
+}
+
+input#work{
+color:black;
+  background-color: #d4e3e5;
+  border-radius: 5px;
+  margin-left: 400px;
+  font-size: 14px;
+
+
+
+}
+
+.date{
+
+
+  margin-left: 200px;
+}
